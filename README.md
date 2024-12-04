@@ -9,11 +9,6 @@ It allows you to add songs, update song details, retrieve song lyrics with pagin
 
 Clone the repository to your local machine.
 
-```bash
-git clone https://github.com/your-username/song-library.git
-cd song-library
-```
-
 ### 2. Configure the environment
 
 You can configure the project settings in the .env file located in the root of the repository.
